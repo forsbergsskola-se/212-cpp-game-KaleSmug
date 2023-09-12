@@ -1,7 +1,7 @@
-Description
+# Description
 Welcome to Sushi Slice Clicker, a fun and addictive cookie clicker clone with a delicious twist! In this simple yet entertaining game, you're not collecting cookies, but scrumptious sushi slices. The goal is straightforward: click on the sushi slices as fast as you can to accumulate points. The more you slice, the higher your score!
 
-Key features of the game:
+# Key features of the game:
 
 Click on the sushi slice to earn points.
 Custom-designed font for the score tracker, adding a unique touch to the game.
@@ -17,7 +17,7 @@ Notification: When a player clicks on a sushi slice, the score tracker notifies 
 
 By implementing the Observer Pattern, we ensure a clean separation of concerns between the score tracking logic and the game elements. This promotes modularity and maintainability in our codebase.
 
-Advanced C++ Features
+# Advanced C++ Features
 To create an efficient and well-structured Sushi Slice Clicker, we leveraged various advanced C++ features, including:
 
 Object-Oriented Programming (OOP): We organized our code into classes and objects to encapsulate game elements and their behavior, promoting code reusability and readability.
@@ -26,7 +26,13 @@ Smart Pointers: We used smart pointers, such as std::shared_ptr, to manage memor
 
 Custom Fonts: We incorporated custom-designed fonts for the score tracker, enhancing the visual appeal of the game. This demonstrates our ability to work with graphical assets and integrate them into our C++ project.
 
-Build of the Game
+
+
+# Build of the Game
 You can find the build of Sushi Slice Clicker in the "build" directory of this repository. Simply download the appropriate executable for your platform (Windows, macOS, or Linux) and run the game to start slicing sushi and earning points.
 
 Enjoy playing Sushi Slice Clicker, and have fun sharpening your clicking skills while savoring delicious virtual sushi slices!
+
+[Video-Showcase]: https://youtu.be/SW_mv80fHx4
+[Sushi-Image]: https://cdn.discordapp.com/attachments/1107668858459930764/1151095076492152852/image.png
+[Big-Sushi-Image]: https://cdn.discordapp.com/attachments/1107668858459930764/1151097478154817637/image.png
