@@ -2,7 +2,7 @@
 Welcome to Sushi Slice Clicker, a fun and addictive cookie clicker clone with a delicious twist! In this simple yet entertaining game, you're not collecting cookies, but scrumptious sushi slices. The goal is straightforward: click on the sushi slices as fast as you can to accumulate points. The more you slice, the higher your score!
 
 # Media
-##YouTube (Click)
+## YouTube (Click)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SW_mv80fHx4/0.jpg)](https://www.youtube.com/watch?v=SW_mv80fHx4)
 
