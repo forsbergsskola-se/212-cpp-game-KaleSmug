@@ -1,6 +1,18 @@
 # Description
 Welcome to Sushi Slice Clicker, a fun and addictive cookie clicker clone with a delicious twist! In this simple yet entertaining game, you're not collecting cookies, but scrumptious sushi slices. The goal is straightforward: click on the sushi slices as fast as you can to accumulate points. The more you slice, the higher your score!
 
+# Media
+##YouTube (Click)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SW_mv80fHx4/0.jpg)](https://www.youtube.com/watch?v=SW_mv80fHx4)
+
+## Screenshots
+
+![image](https://github.com/forsbergsskola-se/212-cpp-game-KaleSmug/assets/7360266/7545bf46-f62d-4aa2-b63a-09446aa3120b)
+
+![image](https://github.com/forsbergsskola-se/212-cpp-game-KaleSmug/assets/7360266/9bc5daa8-1657-49c6-92d1-80b7b2ba6ea4)
+
+
 # Key features of the game:
 
 Click on the sushi slice to earn points.
@@ -33,6 +45,3 @@ You can find the build of Sushi Slice Clicker in the "build" directory of this r
 
 Enjoy playing Sushi Slice Clicker, and have fun sharpening your clicking skills while savoring delicious virtual sushi slices!
 
-[Video-Showcase]: https://youtu.be/SW_mv80fHx4
-[Sushi-Image]: https://cdn.discordapp.com/attachments/1107668858459930764/1151095076492152852/image.png
-[Big-Sushi-Image]: https://cdn.discordapp.com/attachments/1107668858459930764/1151097478154817637/image.png
